@@ -1,0 +1,14 @@
+{
+	"name": "Anthill",
+	"split": "True",
+	"event": "True",
+	"eventList": {
+		"religious": "True",
+		"war": "True",
+		"weather": "True",
+		"disaster": "True"
+	},
+	"multithread": "True",
+	"network": "False",
+	"ui": "False",
+}
